@@ -9,3 +9,10 @@ Il peut s’agir d’informations fiscales, financières, comptables, commercial
 
 ------------
 
+- Qu’est-ce qu’une base de données ?
+- Une base de données permet de stocker et de retrouver des données structurées, semi-structurées ou des données brutes ou de l'information, souvent en rapport avec un thème ou une activité ; celles-ci peuvent être de natures différentes et plus ou moins reliées entre elles. 
+
+------------
+
+- Quelle est la différence entre un sgbd , un systeme d'information et une base de donnees ?
+- Un SGBD est un logiciel qui permet de gérer et d'interagir avec une base de données, tandis qu'une base de données est une collection organisée de données. Un système d'information est un ensemble plus large comprenant des composants matériels, logiciels, des bases de données et des personnes, qui travaillent ensemble pour collecter, traiter et distribuer des informations au sein d'une organisation.
